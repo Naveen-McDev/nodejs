@@ -1,0 +1,18 @@
+data = [
+    {
+        name: person1,
+        email: person1@gmail.com
+    }
+    {
+        name: person2,
+        email: person2@gmail.com
+    }
+    {
+        name: person3,
+        email: person3@gmail.com
+    }
+    {
+        name: person4,
+        email: person4@gmail.com
+    }
+]
